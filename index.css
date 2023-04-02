@@ -1,0 +1,14 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: darkblue
+}
+#currency{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+#cash{
+    color: black;
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
